@@ -17,7 +17,7 @@ This project focuses on a platform that combines together supply chain operation
 - Training models to predict risk, forecast demand, and detect anomalies.
 - Using NLP-based query routing to understand natural language questions about customers or sales patterns.
 - Tracking every model run and dataset version with MLflow for full reproducibility.
-- 
+  
 <img width="759" height="450" alt="newplot" src="https://github.com/user-attachments/assets/18fcb37d-5216-43a9-aef3-72f093f0e2de" />
 <img width="759" height="450" alt="newplot (5)" src="https://github.com/user-attachments/assets/2e5ac8c5-41aa-47fb-8887-850b65d596b4" />
 <img width="759" height="450" alt="newplot (3)" src="https://github.com/user-attachments/assets/625e0c2b-eedc-41a1-b3fb-35b8e7d76d44" />
