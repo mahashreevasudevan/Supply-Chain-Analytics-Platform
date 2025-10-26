@@ -83,7 +83,7 @@ The images below show the confusion matrix and the important features for the ch
 
 - Anomaly detection identified operational irregularities in products across access hour.
 
-  | ACCESS_HOUR | PRODUCT | CATEGORY | ACCESS_MONTH |  anomaly_score  |
+| ACCESS_HOUR | PRODUCT | CATEGORY | ACCESS_MONTH |  anomaly_score  |
 |-------------|---------:|---------:|--------------:|----------------:|
 | 252986      |        0 |        6 |            32 |     -0.102424939 |
 | 249946      |        0 |        6 |            32 |     -0.102424939 |
