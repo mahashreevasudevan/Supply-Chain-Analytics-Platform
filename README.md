@@ -15,7 +15,7 @@ This project focuses on a platform that combines together supply chain operation
 - Cleaning, filtering, and preparing datasets for analysis and modeling.
 - Generating key metrics, trends, and customer segments from purchase patterns.
 - Training models to predict risk, forecast demand, and detect anomalies.
-- Using NLP-based query routing to understand natural language questions about customers or sales patterns.
+- Using Hugging Face Transformers to understand natural language questions about customers or sales patterns.
 - Tracking every model run and dataset version with MLflow for full reproducibility.
   
 <img width="759" height="450" alt="newplot" src="https://github.com/user-attachments/assets/18fcb37d-5216-43a9-aef3-72f093f0e2de" />
